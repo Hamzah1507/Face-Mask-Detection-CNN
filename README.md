@@ -43,6 +43,3 @@ Dataset used: [Face Mask Detection Dataset](https://www.kaggle.com/datasets/omka
 
 ## 📜 License
 This project is licensed under the MIT License.
-
-
-
